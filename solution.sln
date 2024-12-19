@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vteCore", "vteCore\vteCore.csproj", "{F65FDDB9-34C0-4B61-BE88-51AFA89FFA9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenXmlPowerTools", "OpenXmlPowerTools\OpenXmlPowerTools.csproj", "{562AAFF9-BB92-461E-9F44-A2FC17FC2181}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vteCore.Shared", "vteCore.Shared\vteCore.Shared.csproj", "{B46AF568-82C9-48EF-88B5-CAF77E921F20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vteCore.dbService", "vteCore.dbService\vteCore.dbService.csproj", "{F10CAAB8-24CD-48E9-87E0-DF8D0B82A6B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vteCore.jbKeeper", "vteCore.jbKeeper\vteCore.jbKeeper.csproj", "{F3FF7F8E-CD1D-4F89-A43A-1447C3758A16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vteCore.dbCore", "vteCore.dbCore\vteCore.dbCore.csproj", "{D1626FBC-715D-458C-9007-B4258FC87B51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vteCore.dbDMR", "vteCore.dbDMR\vteCore.dbDMR.csproj", "{B38785F3-2DFE-48CA-9B56-BEC9F88A1C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65FDDB9-34C0-4B61-BE88-51AFA89FFA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65FDDB9-34C0-4B61-BE88-51AFA89FFA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65FDDB9-34C0-4B61-BE88-51AFA89FFA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65FDDB9-34C0-4B61-BE88-51AFA89FFA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562AAFF9-BB92-461E-9F44-A2FC17FC2181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562AAFF9-BB92-461E-9F44-A2FC17FC2181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562AAFF9-BB92-461E-9F44-A2FC17FC2181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562AAFF9-BB92-461E-9F44-A2FC17FC2181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46AF568-82C9-48EF-88B5-CAF77E921F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46AF568-82C9-48EF-88B5-CAF77E921F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46AF568-82C9-48EF-88B5-CAF77E921F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46AF568-82C9-48EF-88B5-CAF77E921F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10CAAB8-24CD-48E9-87E0-DF8D0B82A6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10CAAB8-24CD-48E9-87E0-DF8D0B82A6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10CAAB8-24CD-48E9-87E0-DF8D0B82A6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10CAAB8-24CD-48E9-87E0-DF8D0B82A6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FF7F8E-CD1D-4F89-A43A-1447C3758A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FF7F8E-CD1D-4F89-A43A-1447C3758A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FF7F8E-CD1D-4F89-A43A-1447C3758A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FF7F8E-CD1D-4F89-A43A-1447C3758A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1626FBC-715D-458C-9007-B4258FC87B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1626FBC-715D-458C-9007-B4258FC87B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1626FBC-715D-458C-9007-B4258FC87B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1626FBC-715D-458C-9007-B4258FC87B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38785F3-2DFE-48CA-9B56-BEC9F88A1C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38785F3-2DFE-48CA-9B56-BEC9F88A1C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38785F3-2DFE-48CA-9B56-BEC9F88A1C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38785F3-2DFE-48CA-9B56-BEC9F88A1C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E2EC31-A201-449D-93EF-EFD9884D382F}
+	EndGlobalSection
+EndGlobal
